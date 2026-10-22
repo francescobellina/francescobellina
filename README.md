@@ -28,14 +28,26 @@ My coursework spans theoretical, computational, and experimental physics, focusi
 
 ---
 <div align="center">
-  
-<img src="https://ghstats.dev/api/card?username=francescobellina&theme=light&hide_title=true&hide=prs,issues,week,avg" alt="GitHub Stats Card" />
 
-<img src="https://ghstats.dev/api/langs?username=francescobellina&theme=light&layout=compact" alt="Top Languages" />
+  <table>
+    <tr>
+      <td>
+        <img src="https://ghstats.dev/api/card?username=francescobellina&theme=light&hide_title=true&hide=prs,issues,week,avg,followers"
+             alt="GitHub Stats"
+             height="165" />
+      </td>
+      <td>
+        <img src="https://ghstats.dev/api/langs?username=francescobellina&theme=light&layout=compact"
+             alt="Top Languages"
+             height="165" />
+      </td>
+    </tr>
+  </table>
 
-<img src="https://ghstats.dev/api/mini?username=francescobellina&theme=light&metric=week&style=for-the-badge" alt="GitHub Mini Badge" />
+  <br/>
 
-<img src="https://ghstats.dev/api/sparkline?username=francescobellina&theme=light&days=30&width=320&height=90" alt="Contribution Sparkline" />
+  <img src="https://ghstats.dev/api/sparkline?username=francescobellina&theme=light&days=30&width=650&height=110"
+       alt="Contribution Activity — Last 30 Days" />
 
 </div>
 
