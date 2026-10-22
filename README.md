@@ -1,21 +1,11 @@
+
 <div align="center">
 
-<img
-  src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0D1117,50:123B5D,100:00C6FF&text=COMPUTATIONAL%20PHYSICS&fontColor=EAFBFF&fontSize=34&fontAlignY=38&desc=From%20theory%20to%20computation&descSize=15&descAlignY=58&animation=twinkling&section=header"
-  width="100%"
-  alt="Animated Computational Physics Banner"
-/>
-
-<br/>
-
-<a href="https://git.io/typing-svg">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=2800&pause=900&color=36BCF7&center=true&vCenter=true&repeat=true&width=850&height=65&lines=Polymer+Field+Theory+%C2%B7+Biophysics;Quantum+Photonics+%C2%B7+HPC;Numerical+Methods+%C2%B7+Scientific+Computing;Bio-inspired+%26+Unconventional+Computing"
-    alt="Research interests typing animation"
-  />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=1800&pause=350&color=36BCF7,9B59B6,2ED3B7,FF6B6B,F1C40F,FF8C42&center=true&vCenter=true&width=900&height=60&repeat=true&random=true&lines=Polymer+Field+Theory;Biophysics+%26+Soft+Matter;Computational+Physics;Quantum+Photonics;High-Performance+Computing;Numerical+Methods+%26+Scientific+Computing;Bio-inspired+%26+Unconventional+Computing"
+alt="Animated research interests" />
 
 </div>
+
 
 
 
