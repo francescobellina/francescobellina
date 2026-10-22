@@ -3,9 +3,7 @@
 
 ## 👋 About me
 
-I am an MSc student in Physics exploring the intersection of **complex systems**, **emergent phenomena**, and **computational** science.
-My coursework spans theoretical, computational, and experimental physics, focusing on ab-initio MD, machine learning for macromolecules, quantum phenomena, and advanced biophotonics and microscopy (SHG, TPE, Q-ISM).
-
+MSc Physics student working on complex biological systems and emergent phenomena, through ab-initio MD, data-driven modelling of macromolecular systems and also advanced biophotonics imaging techniques (SHG, TPE, Q-ISM etc).
 
 ---
 
