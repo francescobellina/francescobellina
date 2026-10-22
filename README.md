@@ -1,6 +1,6 @@
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Polymer+Field+Theory+%C2%B7+Statistical+Mechanics+%C2%B7+HPC+for+Physics;Computational+Physics+%C2%B7+Quantum+Photonics+%C2%B7+Unconventional+Bio-Computing;PhD+in+theoretical+%26+computational+biophysics)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Polymer+Field+Theory+%C2%B7Biphysics%C2%B7+HPC+for+Physics;Computational+Physics+%C2%B7+Quantum+Photonics+%C2%B7+Unconventional+Bio-Computing;PhD+in+theoretical+%26+computational+biophysics)
 
 <img height="160" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=francescobellina&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 <img height="160" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=francescobellina&layout=compact&theme=tokyonight&hide_border=true" />
@@ -12,24 +12,22 @@
 
 ## 👋 About me
 
-I am a physics master's student working where **statistical mechanics** meets **computational biophysics** and **HPC**. I want to explain biological matter with the same tools physics uses for any other complex system: statistical ensembles, field theories, molecular dynamics and scalable numerical methods.
+I am an MSc student in Physics exploring the intersection of **complex systems**, **emergent phenomena**, and **computational** science.
+My coursework spans theoretical, computational, and experimental physics, focusing on ab-initio MD, machine learning for macromolecules, quantum phenomena, and advanced biophotonics and microscopy (SHG, TPE, Q-ISM).
 
-My coursework covers theoretical, computational and experimental tracks, with an emphasis on **biophotonics and microscopy (SHG, TPE)**, **molecular dynamics and statics**, and **machine learning for macromolecules**.
-
-**Goal:** a PhD in theoretical and computational biophysics.
 
 ---
 
 ## 🔬 Research interests
 
 - 🧬 **Polymer field theory:** field-theoretic descriptions of macromolecular and polymeric systems
-- ⚛️ **Statistical mechanics:** ensembles, low-temperature Fermi gas, Sommerfeld expansion
-- 🖥️ **HPC for physics:** cache hierarchy, memory bandwidth, MPI, OpenMP, scalable scientific codes
+- ⚛️ **Advanced Statistical mechanics:** critical phenomena, large deviations, rare-event statistics, conformal field theory,  renormalization group methods.
+- 🖥️ **HPC for physics:**  MPI, OpenMP, scalable scientific codes, modern methods for HPC
 - 🤖 **HPC for AI (advanced):** distributed training and efficient numerical kernels on HPC infrastructure, explored in [**hpc4ai**](https://github.com/francescobellina/hpc4ai)
-- 💻 **Computational physics:** molecular dynamics (velocity Verlet), molecular statics (neighbor lists, steepest descent), molecular docking
-- 🔦 **Quantum photonics & biophotonics:** nonlinear optics, second-harmonic generation (SHG), two-photon excitation (TPE)
+- 💻 **Computational physics:** molecular dynamics (velocity Verlet), molecular statics (neighbor lists, steepest descent,C-MD), molecular docking
+- 🔦 **Quantum photonics & biophotonics:** nonlinear optics, second-harmonic generation (SHG), two-photon excitation (TPE), imaging for diffusion and folding (with FCS)
 - 🧫 **Unconventional bio-computing:** information processing in biological substrates
-- 🌀 **Optics & imaging:** off-axis digital holography and numerical reconstruction
+- 🌀 **Optics & imaging:** off-axis digital holography and numerical reconstruction (a minor research focus during my MSc, providing a complementary experimental perspective to my theoretical training).
 
 ---
 
@@ -88,19 +86,9 @@ My coursework covers theoretical, computational and experimental tracks, with an
 
 ---
 
-## 📌 Pinned
-
-- [**pythongiac**](https://github.com/francescobellina/pythongiac) — Jupyter Notebook
-- [**SPT_repo**](https://github.com/francescobellina/SPT_repo) — Python
-
----
-
 ## 🔭 Currently exploring
 
-- 🌊 Verlet integration and microcanonical MD (Jupyter Book chapter)
-- 🧲 Neighbor lists and steepest descent for molecular statics
-- 🧮 Efficient numerical kernels and HPC basics for scientific code
-
+woriking in progress 
 ---
 
 ## 📬 Contact
