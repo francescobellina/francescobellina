@@ -1,16 +1,5 @@
 
 
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=1800&pause=350&color=36BCF7&center=true&vCenter=true&width=900&height=60&repeat=true&random=true&lines=Polymer+Field+Theory;Biophysics+%26+Soft+Matter;Computational+Physics;Quantum+Photonics;High-Performance+Computing;Numerical+Methods+%26+Scientific+Computing;Bio-inspired+%26+Unconventional+Computing"
-alt="Animated research interests" />
-
-</div>
-
-
-
-
----
 
 ## 👋 About me
 
