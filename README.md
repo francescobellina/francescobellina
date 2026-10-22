@@ -1,32 +1,7 @@
 
-
 <div align="center">
 
-<svg width="100%" height="60" viewBox="0 0 900 60"
-     xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="rainbow">
-      <stop offset="0%" stop-color="#36BCF7"/>
-      <stop offset="25%" stop-color="#9B59B6"/>
-      <stop offset="50%" stop-color="#2ED3B7"/>
-      <stop offset="75%" stop-color="#FF6B6B"/>
-      <stop offset="100%" stop-color="#F1C40F"/>
-    </linearGradient>
-    <clipPath id="window">
-      <rect width="900" height="60"/>
-    </clipPath>
-  </defs>
-  <g clip-path="url(#window)">
-    <text x="900" y="37" fill="url(#rainbow)"
-          font-family="monospace" font-size="22"
-          font-weight="500">
-      Polymer Field Theory
-      <animate attributeName="x"
-        values="900;-350;900" keyTimes="0;0.5;1"
-        dur="7s" repeatCount="indefinite"/>
-    </text>
-  </g>
-</svg>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=1800&pause=350&color=36BCF7&center=true&vCenter=true&width=900&height=60&repeat=true&lines=Polymer+Field+Theory;Biophysics+%26+Soft+Matter;Computational+Physics;Quantum+Photonics;High-Performance+Computing;Numerical+Methods+%26+Scientific+Computing;Bio-inspired+%26+Unconventional+Computing" alt="Research interests" />
 
 </div>
 
