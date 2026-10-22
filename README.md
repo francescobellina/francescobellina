@@ -2,12 +2,6 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1600&color=36BCF7&center=true&vCenter=true&width=850&lines=Polymer+Field+Theory+%C2%B7+Biophysics+%C2%B7+HPC;Computational+Physics+%C2%B7+Quantum+Photonics+%C2%B7+Bio-inspired+Computing)
 
-<img height="165" alt="GitHub statistics" src="https://github-readme-stats.vercel.app/api?username=francescobellina&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true&include_all_commits=true&hide=issues&custom_title=Research%20%26%20Development" />
-
-<img height="165" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=francescobellina&layout=compact&theme=tokyonight&hide_border=true&langs_count=5&hide=Jupyter%20Notebook" />
-
-<img height="165" alt="Contribution streak" src="https://streak-stats.demolab.com/?user=francescobellina&theme=tokyonight&hide_border=true&background=1A1B27&ring=36BCF7&fire=36BCF7&currStreakLabel=36BCF7&sideLabels=70A5FD&dates=70A5FD" />
-
 </div>
 
 
@@ -33,6 +27,18 @@ My coursework spans theoretical, computational, and experimental physics, focusi
 - 🌀 **Optics & imaging:** off-axis digital holography and numerical reconstruction (a minor research focus during my MSc, providing a complementary experimental perspective to my theoretical training).
 
 ---
+<div align="center">
+  
+<img src="https://ghstats.dev/api/card?username=francescobellina&theme=light&hide_title=true&hide=prs,issues,week,avg" alt="GitHub Stats Card" />
+
+<img src="https://ghstats.dev/api/langs?username=francescobellina&theme=light&layout=compact" alt="Top Languages" />
+
+<img src="https://ghstats.dev/api/mini?username=francescobellina&theme=light&metric=week&style=for-the-badge" alt="GitHub Mini Badge" />
+
+<img src="https://ghstats.dev/api/sparkline?username=francescobellina&theme=light&days=30&width=320&height=90" alt="Contribution Sparkline" />
+
+</div>
+
 
 ## 📚 Selected references
 
