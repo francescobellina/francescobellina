@@ -1,12 +1,15 @@
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Polymer+Field+Theory+%C2%B7Biphysics%C2%B7+HPC+for+Physics;Computational+Physics+%C2%B7+Quantum+Photonics+%C2%B7+Unconventional+Bio-Computing;PhD+in+theoretical+%26+computational+biophysics)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1600&color=36BCF7&center=true&vCenter=true&width=850&lines=Polymer+Field+Theory+%C2%B7+Biophysics+%C2%B7+HPC;Computational+Physics+%C2%B7+Quantum+Photonics+%C2%B7+Bio-inspired+Computing)
 
-<img height="160" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=francescobellina&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="160" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=francescobellina&layout=compact&theme=tokyonight&hide_border=true" />
-<img height="160" alt="Streak" src="https://streak-stats.demolab.com/?user=francescobellina&theme=tokyonight&hide_border=true" />
+<img height="165" alt="GitHub statistics" src="https://github-readme-stats.vercel.app/api?username=francescobellina&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true&include_all_commits=true&hide=issues&custom_title=Research%20%26%20Development" />
+
+<img height="165" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=francescobellina&layout=compact&theme=tokyonight&hide_border=true&langs_count=5&hide=Jupyter%20Notebook" />
+
+<img height="165" alt="Contribution streak" src="https://streak-stats.demolab.com/?user=francescobellina&theme=tokyonight&hide_border=true&background=1A1B27&ring=36BCF7&fire=36BCF7&currStreakLabel=36BCF7&sideLabels=70A5FD&dates=70A5FD" />
 
 </div>
+
 
 ---
 
