@@ -1,8 +1,22 @@
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1600&color=36BCF7&center=true&vCenter=true&width=850&lines=Polymer+Field+Theory+%C2%B7+Biophysics+%C2%B7+HPC;Computational+Physics+%C2%B7+Quantum+Photonics+%C2%B7+Bio-inspired+Computing)
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0D1117,50:123B5D,100:00C6FF&text=COMPUTATIONAL%20PHYSICS&fontColor=EAFBFF&fontSize=34&fontAlignY=38&desc=From%20theory%20to%20computation&descSize=15&descAlignY=58&animation=twinkling&section=header"
+  width="100%"
+  alt="Animated Computational Physics Banner"
+/>
+
+<br/>
+
+<a href="https://git.io/typing-svg">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=2800&pause=900&color=36BCF7&center=true&vCenter=true&repeat=true&width=850&height=65&lines=Polymer+Field+Theory+%C2%B7+Biophysics;Quantum+Photonics+%C2%B7+HPC;Numerical+Methods+%C2%B7+Scientific+Computing;Bio-inspired+%26+Unconventional+Computing"
+    alt="Research interests typing animation"
+  />
+</a>
 
 </div>
+
 
 
 ---
