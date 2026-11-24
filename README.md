@@ -31,7 +31,7 @@ Python · C++ · Julia · MPI / OpenMP · Bash · Linux · Git · Jupyter
 
 ## 📬 Contact
 
-[francescobellinamail@gmail.com](mailto:francescobellinamail@gmail.com) · [f.bellina2@campus.unimib.it](mailto:f.bellina2@campus.unimib.it)
+[francescobellinamail@gmail.com](mailto:francescobellinamail@gmail.com) (personal) · [f.bellina2@campus.unimib.it](mailto:f.bellina2@campus.unimib.it) (academic)
 
 <!--
 ## 📚 Publications
