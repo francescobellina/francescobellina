@@ -11,6 +11,8 @@ MSc Physics student working on complex biological systems and emergent phenomena
 - 🖥️ **HPC for physics:** MPI, OpenMP, scalable scientific codes, modern methods for HPC
 - 🤖 **HPC for AI (advanced):** distributed training and efficient numerical kernels on HPC infrastructure, explored in [**hpc4ai**](https://github.com/francescobellina/hpc4ai)
 - 💻 **Computational physics:** molecular dynamics (velocity Verlet), molecular statics (neighbor lists, steepest descent, C-MD), molecular docking
+
+## Additional fields
 - 🔦 **Quantum photonics & biophotonics:** nonlinear optics, second-harmonic generation (SHG), two-photon excitation (TPE), imaging for diffusion and folding (with FCS)
 - 🧫 **Unconventional bio-computing:** information processing in biological substrates
 - 🌀 **Optics & imaging:** off-axis digital holography and numerical reconstruction (a minor research focus during my MSc, providing a complementary experimental perspective to my theoretical training)
